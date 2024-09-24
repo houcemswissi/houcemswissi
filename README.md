@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi 👋! I am Houcem Swissi
+
+- 🔭 I’m currently working on Finance related AI projects
+- 🌱 I’m currently learning Finance
 
 <!--
 **houcemswissi/houcemswissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
